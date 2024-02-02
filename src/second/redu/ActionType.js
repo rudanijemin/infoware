@@ -1,0 +1,7 @@
+export const MAKE_REQ = "MAKE_REQ"
+export const FAIL_REQ = "FAIL_REQ"
+export const GET_USER = "GET_USER"
+export const REMOVE_USER = "REMOVE_USER"
+export const ADD_USER="ADD_USER"
+export const UPDATE_USER=" UPDATE_USER"
+export const GET_USER_OBJ="GET_USER_OBJ"
